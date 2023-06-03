@@ -51,7 +51,7 @@ Optimization of the Wasserstein distance instead of the Jensen-Shannon divergenc
 More stable training dynamics, allowing for better convergence and control over the generated samples.
 WGANs address some of the challenges associated with traditional GANs, such as mode collapse and difficulties in training. By optimizing the Wasserstein distance, WGANs can generate high-quality samples and exhibit improved training stability.
 
-In the context of the project you described, the model's performance is enhanced by integrating a DCGAN architecture with Wasserstein Loss (WGAN), thereby leveraging the benefits of both frameworks for generating high-quality anime faces.
+The model's performance is enhanced by integrating a DCGAN architecture with Wasserstein Loss (WGAN), thereby leveraging the benefits of both frameworks for generating high-quality anime faces.
 
 ## Acknowledgments
 
