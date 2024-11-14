@@ -58,4 +58,4 @@ The model's performance is enhanced by integrating a DCGAN architecture with Was
 I would like to acknowledge the following resources and references that contributed to the development of this project:
 
 - "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks" by A. Radford et al.
-- "Wasserstein GAN" by M. Arjovsky et al.
+- "Wasserstein GAN" by M. Arjovsky et al
